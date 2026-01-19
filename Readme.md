@@ -128,7 +128,6 @@ sequenceDiagram
     Workflow -->> Controller: Resultado consolidado
     Controller -->> Cliente: Response
 ```
-https://mermaid.live/edit#pako:eNp1U0tu2zAQvQrBVQrYhpRYssRFgMBt0Y2BoEZboNBmIE5kIhLpjEg3qeHD9Aw9Qi4W6ue4lqsVyXlv3sy80Z7nRiIXvMYnhzrHjwoKgirTzH9bIKtytQVt2bJUqC1eCBhtyZQl0jj2w9DjQ2l-jSP3q7vC52NQs4zfr74rsg7K9i3jY_gdPZ3g_c0pi9b8F_9Zlbh-qS36TrpoXz-b3t6elCzYJ71TwCRWoCX00GO4RQ9NCIbPmDsLdNXDPwzJB0iL71sTrEAC-qJqa0jBt9oBKXNCbYjDGKb_CjWk17_UFsY88_WPp14UGwbTq_X2wbqzU8HVptfvBY-DPFNcIVWg5EWN92EKtoZyBwwaA3aGzSrZ4d8h54mXUCm9MUyagTXWOPfkK9autOApudG1KZX057E3La2zteVsPRj5hBekJBeWHE541fXlN3zfJMi43WCFGRf-KIEem-U5eI7fmp_GVAONjCs2XDxAWfub20qww69xfCXUEmlpnLZczIOgTcLFnj9zMU3mszAJ43geLOJFmkTRhL9wkcSzRXITpjdpGgZhEl8fJvx3KxvOwii9TmPPScMoDKL54Q3ISjYV
 ------------------------------------------------------------------------
 
 ## Benefícios do Modelo
